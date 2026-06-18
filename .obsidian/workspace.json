@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "包材收费技术方案.md",
+                "file": "cpp-service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "包材收费技术方案"
+              "title": "cpp-service"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "加急保温标识数据流.md",
+                "file": "平台架构总览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "加急保温标识数据流"
+              "title": "平台架构总览"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5815d6c76428fffc",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "包材收费方案.md",
+                "file": "cpp-service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "包材收费方案 的反向链接列表"
+              "title": "cpp-service 的反向链接列表"
             }
           },
           {
@@ -156,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "外送检验项目明细列表.md",
+                "file": "cpp-service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "外送检验项目明细列表 的出链列表"
+              "title": "cpp-service 的出链列表"
             }
           },
           {
@@ -214,14 +215,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "加急保温标识数据流.md"
+                "file": "cpp-service.md"
               },
               "icon": "lucide-info",
-              "title": "加急保温标识数据流的笔记属性"
+              "title": "cpp-service的笔记属性"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -239,20 +240,30 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9e10edb88b6284f6",
+  "active": "2b63d57d7ffc6b9d",
   "lastOpenFiles": [
-    "包材收费方案.md",
+    "包材收费技术方案.md",
+    "平台架构总览.md",
+    "go-service.md",
+    "ogo-service.md",
+    "package_material_fee_handoff.md",
+    "cpp-service.md",
+    "ocpp-service.md",
     "加急保温标识数据流.md",
+    "ogo-service.md.tmp.12620.0f104af45cdd",
+    "ocpp-service.md.tmp.12620.e1fa90c99278",
+    "go-service.md.tmp.12620.67f19d8d7945",
+    "cpp-service.md.tmp.12620.173e62ff46de",
+    "平台架构总览.md.tmp.12620.b1deaeeb2389",
+    "包材收费方案.md",
     "代煎按剂数收费.md",
     "日结日志.md",
     "应回诊率优化.md",
     "欢迎.md",
     "西医模式支持配置是否展示舌脉和中医诊断.md",
-    "package_material_fee_handoff.md",
     "api_doc_outsend_item_list.md",
     "创建链接.md",
     "包材收费方案.md.tmp.22852.796d5ca1f01a",
-    "包材收费技术方案.md",
     "包材收费配置需求文档.md",
     "处方合并发货需求文档.md",
     "外送检验项目明细列表.md",
