@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "0c9cc023eafb0daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7906224dcbc11e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719d7ca686dc8d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "包材收费配置需求文档.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "包材收费配置需求文档"
+            }
+          },
+          {
+            "id": "2b63d57d7ffc6b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "包材收费技术方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "包材收费技术方案"
+            }
+          },
+          {
+            "id": "9e10edb88b6284f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "加急保温标识数据流.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "加急保温标识数据流"
+            }
+          },
+          {
+            "id": "bbfa7ba31891fb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代煎按剂数收费.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "代煎按剂数收费"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e7c06899ed3ff65",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a1392e0701e89d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00be3f67e81c917f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73e0ab27e1f3fd73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f78c243ca47e06f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5815d6c76428fffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50803065d56cee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c88efb5ddf55791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "包材收费方案.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "包材收费方案 的反向链接列表"
+            }
+          },
+          {
+            "id": "a36ced08affef808",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "外送检验项目明细列表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "外送检验项目明细列表 的出链列表"
+            }
+          },
+          {
+            "id": "ba3e5a9d2db31139",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "369351de4017873b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c308115cfe811651",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "外送检验项目明细列表.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "外送检验项目明细列表 的大纲"
+            }
+          },
+          {
+            "id": "3c76f675b1a424bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "加急保温标识数据流.md"
+              },
+              "icon": "lucide-info",
+              "title": "加急保温标识数据流的笔记属性"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "9e10edb88b6284f6",
+  "lastOpenFiles": [
+    "包材收费方案.md",
+    "加急保温标识数据流.md",
+    "代煎按剂数收费.md",
+    "日结日志.md",
+    "应回诊率优化.md",
+    "欢迎.md",
+    "西医模式支持配置是否展示舌脉和中医诊断.md",
+    "package_material_fee_handoff.md",
+    "api_doc_outsend_item_list.md",
+    "创建链接.md",
+    "包材收费方案.md.tmp.22852.796d5ca1f01a",
+    "包材收费技术方案.md",
+    "包材收费配置需求文档.md",
+    "处方合并发货需求文档.md",
+    "外送检验项目明细列表.md",
+    "handoff_inspect 1.md",
+    "handoff_inspect.md",
+    "Pasted image 20260515102353.png",
+    "Pasted image 20260515102431.png",
+    "应回诊率优化.md.md"
+  ]
+}
