@@ -18,14 +18,14 @@ aliases:
 
 ## 基本信息
 
-| 项 | 值 |
-|----|-----|
-| 本地路径 | `C:\Users\PC\Documents\cpp-code\code\cpp-service` |
-| 测试服务器 | `ssh -p 36000 guanbin@172.30.12.124` |
-| 日志 CGI | `/data/c2c_logs/*_debug*.log` |
-| 日志 DAO/AO | `/data/applog/*_debug*.log` |
-| 构建方式 | Makefile（Linux 服务器上执行） |
-| C++ 标准 | C++03 兼容，不假设 C++11 |
+| 项         | 值                                                 |
+| --------- | ------------------------------------------------- |
+| 本地路径      | `C:\Users\PC\Documents\cpp-code\code\cpp-service` |
+| 测试服务器     | `ssh -p 36000 guanbin@172.30.12.124`              |
+| 日志 CGI    | `/data/c2c_logs/*_debug*.log`                     |
+| 日志 DAO/AO | `/data/applog/*_debug*.log`                       |
+| 构建方式      | Makefile（Linux 服务器上执行）                            |
+| C++ 标准    | C++03 兼容，不假设 C++11                                |
 
 ## 架构
 
